@@ -16,3 +16,7 @@ auto main() -> int
   std::println("hello CPP");
 }
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
